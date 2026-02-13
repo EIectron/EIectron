@@ -1,0 +1,7 @@
+# app-ads.txt for Ramadan
+# Generated according to IAB Tech Lab standards
+# Publisher: Kolabs.
+# Last updated: February 11, 2026
+
+# Google AdMob
+google.com, pub-6858843079268582, DIRECT, f08c47fec0942fa0
